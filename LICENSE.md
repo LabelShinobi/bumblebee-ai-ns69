@@ -1,4 +1,4 @@
-# 
+# Smart Bumblebee plugins. Featuring vector-database-integration and user-friendly-interface — optimized for maximum performance and efficiency.
 
 
 
